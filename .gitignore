@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+.venv
+
+# Idea folder
+.idea
+
+#Python files
+lab.py
+
+
